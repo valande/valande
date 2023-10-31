@@ -1,7 +1,7 @@
 ### Hi there! 👋
 - 🔭 I’m currently available for hiring
 - 🌱 I’m currently learning "Google IT automation with Python" certificate
-- 📫 How to reach me: pablo.cazallas@gmail.com / valande@gmail.com
+- 📫 How to reach me: pablo.cazallas@gmail.com
   
 <!--
 **valande/valande** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
