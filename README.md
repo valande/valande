@@ -1,5 +1,5 @@
 ### Hi there! 👋
-This is [Pablo Cazallas](https://www.linkedin.com/in/pablo-cazallas-gonzalez/), a senior developer skilled in Linux and junior DevOps IT professional. 
+This is [Pablo Cazallas](https://www.linkedin.com/in/pablo-cazallas-gonzalez/), a Software Developer & DevOps, skilled in UNIX & Linux.
 
 - 🔭 Currently I am available for hiring.
 - 🤔 Interested in Software Development, Sys Admin, Agile methodologies, CI /CD, IaC, Python...
