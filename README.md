@@ -1,7 +1,11 @@
 ### Hi there! 👋
-- 🔭 I’m currently available for hiring
-- 🌱 I’m currently learning "Google IT automation with Python" certificate
-- 📫 How to reach me: pablo.cazallas@gmail.com
+This is [Pablo Cazallas](www.linkedin.com/in/pablo-cazallas-gonzalez), a senior developer skilled in Linux and junior DevOps IT professional. 
+
+- 🔭 Currently I am available for hiring.
+- 🤔 Interested in Software Development, Sys Admin, Agile methodologies, CI /CD, IaC, Python...
+- ⚡ Succesfully acomplished FullStack DevOps & Cloud Computing Bootcamp by [KeepCoding Tech School](https://keepcoding.io/nuestros-bootcamps/full-stack-devops-bootcamp/).
+- 😄 Recently achieved [Google IT automation with Python](https://coursera.org/share/407e7e916d8efb09fc429488f20b17e5) professional certificate.
+- 🌱 Right now learning [Google Projects Management](https://www.coursera.org/programs/cc23-es-f5-0kdjn/professional-certificates/gestion-de-proyectos-de-google?authProvider=gwg-ent-inco) professional certificate.
   
 <!--
 **valande/valande** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
