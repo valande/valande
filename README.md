@@ -2,10 +2,10 @@
 This is [Pablo Cazallas](https://www.linkedin.com/in/pablo-cazallas-gonzalez/), a Software Developer & DevOps, skilled in UNIX & Linux.
 
 - 🔭 Currently I am available for hiring.
-- 🤔 Interested in Software Development, Sys Admin, Agile methodologies, CI /CD, IaC, Python...
+- 🤔 Interested in Software Development, Sys Admin, Agile methodologies, CI /CD, IaC, design patterns, and so on...
 - ⚡ Succesfully acomplished FullStack DevOps & Cloud Computing Bootcamp by [KeepCoding Tech School](https://keepcoding.io/nuestros-bootcamps/full-stack-devops-bootcamp/).
 - 😄 Recently achieved [Google IT automation with Python](https://coursera.org/share/407e7e916d8efb09fc429488f20b17e5) professional certificate.
-- 🌱 Right now learning [Google Projects Management](https://www.coursera.org/programs/cc23-es-f5-0kdjn/professional-certificates/gestion-de-proyectos-de-google?authProvider=gwg-ent-inco) professional certificate.
+- 🌱 Right now preparing [CKA](https://training.linuxfoundation.org/certification/certified-kubernetes-administrator-cka/) and [CKAD](https://training.linuxfoundation.org/certification/certified-kubernetes-application-developer-ckad/) professional certificates.
   
 <!--
 **valande/valande** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
