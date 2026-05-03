@@ -5,7 +5,7 @@ This is [Pablo Cazallas](https://www.linkedin.com/in/pablo-cazallas-gonzalez/), 
 - 🤔 Interested in Software, SysAdmin, Agile, CI/CD, IaC, Kubernetes...
 - ⚡ Succesfully acomplished FullStack DevOps & Cloud Computing Bootcamp by [KeepCoding Tech School](https://keepcoding.io/nuestros-bootcamps/full-stack-devops-bootcamp/).
 - 😄 Recently achieved [Google IT automation with Python](https://coursera.org/share/407e7e916d8efb09fc429488f20b17e5).
-- 🌱 Right now working to obtain [LFCS](https://training.linuxfoundation.org/certification/linux-foundation-certified-sysadmin-lfcs/) and [CKA](https://training.linuxfoundation.org/certification/certified-kubernetes-administrator-cka/) by Linux Foundation.
+- 🌱 Right now certified as [LFCS](https://www.credly.com/badges/f32b07d9-81fd-4091-a3b1-79b220b493a6/public_url) and working on [CKA](https://training.linuxfoundation.org/certification/certified-kubernetes-administrator-cka/) by Linux Foundation.
   
 <!--
 **valande/valande** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
