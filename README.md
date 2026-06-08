@@ -1,11 +1,12 @@
 ### Hi there! 👋
-This is [Pablo Cazallas](https://www.linkedin.com/in/pablo-cazallas-gonzalez/), a Software & DevOps Engineer, skilled in UNIX & Linux.
+This is [Pablo Cazallas](https://www.linkedin.com/in/pablo-cazallas-gonzalez/), [LFCS certified](https://www.credly.com/badges/f32b07d9-81fd-4091-a3b1-79b220b493a6/public_url) Software Engineer.
 
-- 🔭 Currently I am available for hiring.
-- 🤔 Interested in Software, SysAdmin, Agile, CI/CD, IaC, Kubernetes...
-- ⚡ Succesfully acomplished FullStack DevOps & Cloud Computing Bootcamp by [KeepCoding Tech School](https://keepcoding.io/nuestros-bootcamps/full-stack-devops-bootcamp/).
-- 😄 Recently achieved [Google IT automation with Python](https://coursera.org/share/407e7e916d8efb09fc429488f20b17e5).
-- 🌱 Right now certified as [LFCS](https://www.credly.com/badges/f32b07d9-81fd-4091-a3b1-79b220b493a6/public_url) and working on [CKA](https://training.linuxfoundation.org/certification/certified-kubernetes-administrator-cka/) by Linux Foundation.
+- 👯 Available for hiring.
+- 🤔 Interested in DevOps, SysAdmin, Agile, CI/CD, IaC, and so on.
+- ⚡ Succesfully acomplished [FullStack DevOps & Cloud Computing Bootcamp](https://app.certif-id.com/certificate-view/571ee109ab18cc2fa02e8bc7dc76c3c9f568bbe8cca169cee0e8e9fb6a6cd4fe) - June, 2023.
+- 😄 Achieved [Google IT automation with Python](https://coursera.org/share/407e7e916d8efb09fc429488f20b17e5) - November, 2023.
+- 🌱 Recently [Linux Foundation certified Sysadmin](https://www.credly.com/badges/f32b07d9-81fd-4091-a3b1-79b220b493a6/public_url) - April 29th, 2026.
+- 🔭 Currently working to achieve [CKA](https://training.linuxfoundation.org/certification/certified-kubernetes-administrator-cka/) by Linux Foundation.
   
 <!--
 **valande/valande** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
