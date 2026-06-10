@@ -1,14 +1,14 @@
 ### Hi there! 👋
 This is [Pablo Cazallas](https://www.credly.com/users/pablo-cazallas-gonzalez/badges/credly), Software & DevOps Engineer.
 
-- 🌱 Recently [Linux Foundation Certified Sysadmin](https://www.credly.com/badges/f32b07d9-81fd-4091-a3b1-79b220b493a6/public_url) - April 29th, 2026.
-- 🔭 Currently working to achieve [CKA](https://training.linuxfoundation.org/certification/certified-kubernetes-administrator-cka/) by Linux Foundation.
-- ⚡ Succesfully acomplished [FullStack DevOps & Cloud Computing Bootcamp](https://app.certif-id.com/certificate-view/571ee109ab18cc2fa02e8bc7dc76c3c9f568bbe8cca169cee0e8e9fb6a6cd4fe) - June, 2023.
-- 😄 Achieved [Google IT automation with Python](https://coursera.org/share/407e7e916d8efb09fc429488f20b17e5) - November, 2023.
+- 👯 Available for hiring.
 
 <br/>
 
-- 👯 Available for hiring.
+- 🔭 Currently working to achieve [CKA](https://training.linuxfoundation.org/certification/certified-kubernetes-administrator-cka/) by Linux Foundation.
+- 🌱 Recently [Linux Foundation Certified Sysadmin](https://www.credly.com/badges/f32b07d9-81fd-4091-a3b1-79b220b493a6/public_url) - April 29th, 2026.
+- ⚡ Succesfully acomplished [FullStack DevOps & Cloud Computing Bootcamp](https://app.certif-id.com/certificate-view/571ee109ab18cc2fa02e8bc7dc76c3c9f568bbe8cca169cee0e8e9fb6a6cd4fe) - June, 2023.
+- 😄 Achieved [Google IT automation with Python](https://coursera.org/share/407e7e916d8efb09fc429488f20b17e5) - November, 2023.
 
 <!--
 **valande/valande** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
