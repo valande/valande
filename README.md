@@ -1,5 +1,5 @@
 ### Hi there! 👋
-This is [Pablo Cazallas](https://www.linkedin.com/in/pablo-cazallas-gonzalez/), Software & DevOps Engineer.
+This is [Pablo Cazallas]([https://www.linkedin.com/in/pablo-cazallas-gonzalez/](https://www.credly.com/users/pablo-cazallas-gonzalez/badges/credly)), Software & DevOps Engineer.
 
 - 🌱 Recently [Linux Foundation Certified Sysadmin](https://www.credly.com/badges/f32b07d9-81fd-4091-a3b1-79b220b493a6/public_url) - April 29th, 2026.
 - 🔭 Currently working to achieve [CKA](https://training.linuxfoundation.org/certification/certified-kubernetes-administrator-cka/) by Linux Foundation.
